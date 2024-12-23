@@ -1,0 +1,8 @@
+[build]
+  publish = "dist" # This is the default output directory for Create React App.
+  command = "npm run build" # Command to build your React app.
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

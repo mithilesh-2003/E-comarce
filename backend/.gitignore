@@ -1,0 +1,6 @@
+
+
+# ignore this file from git
+node_modules/
+.env
+uploads/
